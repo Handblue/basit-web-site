@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(247, 148, 0);
+}
+h2 { 
+    color: red 
+}
+
+#first-article {   /* id verme (altındaki tüm metinin boyutunu 20px yaptı) */ 
+    font-size: 20px;
+} 
+
+.text-red { /* Rengini red yaptı. class="" içerisine yazıyoruz. */
+    color: red;
+}
+
+.fs-25 { /* fontu 25 yaptı */
+    font-size: 25px;
+}
+
+.fs-cr{
+    font-size: 20px;
+    color: rgb(247, 148, 0);
+}
+
+.fs-clr {
+    font-size: 50px;
+    color: rgb(247, 148, 0);
+}
